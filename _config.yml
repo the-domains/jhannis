@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.6614353
+  lightness: 0.202924
+  brandStrength: 0.8440571
+  brandColors:
+    - '#FFFFFF'
+    - '#B4B6A9'
+    - '#191C25'
+    - '#4A484B'
+    - '#828483'
+  rhythmicContrast: 0.3478998
+typography_spectrum: 0.3255597
+name: Jhannis
